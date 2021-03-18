@@ -1,5 +1,5 @@
 PODS:
-  - LLCategoryKit (0.1.0)
+  - LLCategoryKit (1)
 
 DEPENDENCIES:
   - LLCategoryKit (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  LLCategoryKit: 411cbeb5eb98169d2431b83b171d7dc4bf49e648
+  LLCategoryKit: eaaed9c2765aea61f5605da966dc60ce65fc6d5a
 
 PODFILE CHECKSUM: 19dc190570442f079330a2611cb07a212c387880
 
